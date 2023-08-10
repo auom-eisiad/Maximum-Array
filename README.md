@@ -16,7 +16,7 @@
 ```
 The challenge was to allow the user to input an array of integars and see the console log the exact amount of numbers in the array. Through this challenge, I was able to understand how an array works and what math max does.
 
-Website: 
+Website: https://auom-eisiad.github.io/Maximum-Array/
 ![Screenshot](images/website.png)
 
 ## Table of Contents (Optional)
