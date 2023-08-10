@@ -14,7 +14,7 @@
     Input: [ 3, 3, 3 ]
     Output: 3
 ```
-The challenge was to allow the user to input an array of integars and see the console log the exact amount of numbers in the array. Through this challenge, I was able to understand how an array works and 
+The challenge was to allow the user to input an array of integars and see the console log the exact amount of numbers in the array. Through this challenge, I was able to understand how an array works and what math max does.
 
 Website: 
 ![Screenshot](images/website.png)
@@ -34,10 +34,10 @@ N/A
 
 ## Usage
 
-When you enter the broswer, the user asked to open into their console which they can do by right-click and clicking on Inspect on the menu or using CTRL + SHIFT + I. Once in the Devtools, the user can input their own integar they wish to see the sum of. To do so, the user will need to type "sumOne(a)" where they replace "a" with their own integar and the log will output all the sum by one to that integer. 
+When you enter the broswer, the user asked to open into their console which they can do by right-click and clicking on Inspect on the menu or using CTRL + SHIFT + I. Once in the Devtools, the user can input their own set of integars. To do so, the user will need to type "Math.max( num1, num2, num3, ... )" where they replace the "num's" with their own integar and the log will output the bigger integar among the array.
 
     ```md
-    ![Devtools](images/sum.png)
+    ![Devtools](images/console.png)
     ```
 
 ## Credits

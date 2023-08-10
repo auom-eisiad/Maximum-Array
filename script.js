@@ -2,7 +2,7 @@
 function maxArr() {
 
     // finds the max value from the array
-    var arr = Math.max(120, 123, 1, 1200);
+    var arr = Math.max();
 
     // log the max value
     console.log(arr);
